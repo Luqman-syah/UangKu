@@ -1,0 +1,6 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "block-outline",
+    "editor.overtypeCursorStyle": "block-outline",
+    "editor.cursorSmoothCaretAnimation": "explicit"
+}
